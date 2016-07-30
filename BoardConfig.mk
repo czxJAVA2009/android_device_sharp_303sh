@@ -52,7 +52,7 @@ TW_DEFAULT_LANGUAGE := zh_CN
 BOARD_RECOVERY_SWIPE := true
 TARGET_NO_SEPARATE_RECOVERY := true
 
-TARGET_RECOVERY_FSTAB := device/sharp/sh01f/recovery.fstab
+TARGET_RECOVERY_FSTAB := device/sharp/303sh/recovery.fstab
 
 TW_EXCLUDE_SUPERSU := true
 
